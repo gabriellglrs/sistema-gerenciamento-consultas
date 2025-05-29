@@ -1,4 +1,5 @@
-![LinkedIn cover - 22](https://github.com/user-attachments/assets/4c83fd04-0518-4c96-bbc9-f96b2cae5638)
+![LinkedIn cover - 26](https://github.com/user-attachments/assets/a8fb1da1-4e4a-46d6-8682-20c496a9f23e)
+
 
 
 # Sistema de Consultas Médicas - Clean Architecture
@@ -180,10 +181,21 @@ Utilizados para retornar dados nas respostas, sem exposição de informações s
 Este projeto está sob a licença [MIT](LICENSE).
 
 ## 👥 Autores
-
+ Gabriel lucas rodrigues souza
+ <br>
+LinkedIn: https://www.linkedin.com/in/gabriellglrs/
+ <br>
 - Desenvolvido seguindo os princípios da Clean Architecture
 - Estrutura modular e extensível para fácil manutenção
 
 ---
 
 **Nota**: Este projeto está em desenvolvimento ativo. Algumas funcionalidades podem estar em implementação.
+
+ <br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ed7208b8-6bdc-4c82-98aa-8c8cb9c1428f" height="150"/>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C89F8&height=120&section=footer"/>
