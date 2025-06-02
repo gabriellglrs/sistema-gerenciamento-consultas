@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C89F8&height=120&section=header"/>
+
+
 ![LinkedIn cover - 26](https://github.com/user-attachments/assets/a8fb1da1-4e4a-46d6-8682-20c496a9f23e)
 
 
